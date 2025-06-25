@@ -1,3 +1,5 @@
 {
   // "deno.path": "deno",
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.nextEditSuggestions.fixes": false
 }
