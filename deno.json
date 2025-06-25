@@ -1,0 +1,18 @@
+{
+  "imports": {
+    "@type-challenges/utils": "npm:@type-challenges/utils@^0.1.1"
+  },
+  "nodeModulesDir": "auto",
+  "compilerOptions": {
+    "lib": [
+      "ESNext"
+    ],
+    "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": true
+  },
+  "unstable": [
+    "sloppy-imports"
+  ]
+}
